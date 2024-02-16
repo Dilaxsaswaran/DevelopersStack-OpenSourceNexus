@@ -6,7 +6,6 @@
  */
 
  
-
  public class ReversePyramid_Pattern {
 	public static void main(String[] args)  
 	{  
